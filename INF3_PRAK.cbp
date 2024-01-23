@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="INF3_PRAK" />
+		<Option makefile_is_custom="1" />
+		<Option execution_dir="../INF3_PRAK" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="run">
+				<Option output="INF3_PRAK" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../INF3_PRAK" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+			</Target>
+			<Target title="all">
+				<Option output="INF3_PRAK" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+			<Target title="doc">
+				<Option output="INF3_PRAK" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+			<Target title="clean">
+				<Option output="INF3_PRAK" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Doxyfile">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="INF3_PRAK.cbp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="INF3_PRAK.layout">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="LICENSE">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Makefile">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="README.md">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="SHA256.C">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="SHA256.H">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="SIMPLESOCKET.C">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="SIMPLESOCKET.H">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="TASK1.C">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="TASK1.H">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="TASK2.C">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="TASK2.H">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="TASK3.C">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="TASK3.H">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="TASK4.C">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="TASK4.H">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="TASK5.C">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="TASK5.H">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="TASK6.H">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="client.C">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="main.C">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="mainTest.C">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="server.C">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Extensions>
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
